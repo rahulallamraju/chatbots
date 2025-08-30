@@ -1,0 +1,11 @@
+This chatbot analyzes the financial data of the 3 companies 
+Microsoft, Tesla and Apple
+Then you can ask it questions about the revenue, net income, cash flow, 
+assets and liabilities.
+It can show you the change over the years in the different categories. 
+It looks out for keywords such as net income or cash flow and shows you the data
+of all companies within these categories. 
+When you ask for financial health, it shows equity and assets standings of the 
+companies. 
+You can also compare the companies and it will show the 3 companies in greatest to 
+least in all the categories. 
